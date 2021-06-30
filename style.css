@@ -1,0 +1,34 @@
+body {
+  color: aliceblue;
+  background-image: url(img/Gradient.jpeg);
+}
+
+h1 {
+  position: relative;
+  top: 200px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 200px;
+
+}
+
+h2 {
+  text-align: center;
+  position: relative;
+  top: 150px;
+  font-size: 60px;
+}
+
+.sx {
+  margin-top: 150px;
+  margin-right: 550px;
+  float: right;
+  font-size: 30px;ì
+}
+
+.dx {
+  margin-top: 150px;
+  margin-left: 550px;
+  float:left;
+  font-size: 30px;
+}
