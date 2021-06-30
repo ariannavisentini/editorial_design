@@ -2,7 +2,19 @@ body {
   color: aliceblue;
   background-image: url(img/Gradient.jpeg);
   background-size: cover;
+  font-weight: 20;
+  font-family: Traviata, regular;
+  src:local(/Users/Arianna/Downloads/VJ\Traviata/Traviata.otf)
 }
+
+/* header  */
+.icon_sun {
+  position: relative;
+  left: 1700px;
+  top: 20px;
+}
+
+/* main  */
 
 h1 {
   position: relative;
@@ -10,7 +22,6 @@ h1 {
   margin: 0 auto;
   text-align: center;
   font-size: 200px;
-
 }
 
 h2 {
@@ -34,9 +45,20 @@ h2 {
   font-size: 30px;
 }
 
+/* footer  */
 h4 {
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
-  top: 500px;
+  top: 470px;
   left: -700px;
 }
+
+.arrow {
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 430px;
+  left: -710px;
+}
+
+
+
